@@ -38,7 +38,11 @@ Built to practice:
 
 ---
 
-## 🎬 Demo
+## 🌐 Live Demo
+
+🔗 **[india-census-dashboard.streamlit.app](https://india-census-dashboard.streamlit.app/)**
+
+## 🎬 Demo Video
 
 https://github.com/amit-0333/india-census-dashboard/blob/main/dashbboard.mp4
 
